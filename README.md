@@ -11,12 +11,14 @@ This is a front and rear separation music application.
   npm run dev
 ```
 Visit on localhost://8081
+
 2. music-manage
 ```
   npm install
   npm run dev
 ```
 Visit on localhost://8080
+
 3. music-server
 Run in Idea
 ## Preview
